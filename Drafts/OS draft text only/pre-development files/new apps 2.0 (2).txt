@@ -1,0 +1,47 @@
+new apps 3.28/2018 
+the second installment
+(folders only, the apps will be programmed in the future) 
+
+wikirip maker
+offline encyclopedia for kids
+offline encyclopedia for teens
+offline encyclopedia for adults
+thumbnail maker
+screenshot manager
+desktop highlighter
+highlighter
+highlighter control panel
+offline thesaurus for kids
+offline thesaurus for teens
+offline thesaurus for adults
+ISO viewer
+DMG viewer
+IMG viewer
+ISO maker
+DMG maker
+IMG maker
+Disc writer
+Disc formatter
+Disk burner
+Disk reformatter
+File scanner 
+>ISO scanner
+>DMG scanner
+>IMG scanner
+>EXE scanner
+>DOCX scanner
+>NEXE scanner
+>PDF scanner
+>etc
+poll maker
+form maker
+file definer
+guest book
+MP3 market
+meadows messenger
+meadows movie maker
+voice mail office
+system soundboard
+writepad
+siren
+meadows site builder

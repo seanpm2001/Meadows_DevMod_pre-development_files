@@ -1,0 +1,317 @@
+Virtual machine area add list 1.0
+made march 29th 2018
+made to list the operating system directories that i will add later
+
+Windows
+
+Windows server 2003  COMPLETED! 3.29.2018
+Windows server 2003 R2  COMPLETED! 3.29.2018
+Windows Janus  COMPLETED! 3.29.2018
+Sparta, Winball  COMPLETED! 3.29.2018
+Windows Snowball  COMPLETED! 3.29.2018
+Windows detroit  COMPLETED! 3.29.2018
+Windows Nashville  COMPLETED! 3.29.2018
+Windows Razzle  COMPLETED! 3.29.2018
+Windows Daytona  COMPLETED! 3.29.2018
+Windows wolfpack  COMPLETED! 3.29.2018
+Windows Impala  COMPLETED! 3.29.2018
+Windows odyssey  COMPLETED! 3.29.2018
+Windows Manria  COMPLETED! 3.29.2018
+Windows freestyle  COMPLETED! 3.29.2018
+Windows harmony  COMPLETED! 3.29.2018
+Windows symphony  COMPLETED! 3.29.2018
+Windows Emerald  COMPLETED! 3.29.2018
+Windows Diamond  COMPLETED! 3.29.2018
+Windows springboard  COMPLETED! 3.29.2018
+Windows lonestar  COMPLETED! 3.29.2018
+Windows server  COMPLETED! 3.29.2018
+Windows Bobcat  COMPLETED! 3.29.2018
+Windows Eiger, monch  COMPLETED! 3.29.2018
+Windows Quattro  COMPLETED! 3.29.2018
+Windows Vail  COMPLETED! 3.29.2018
+Windows Longhorn server  COMPLETED! 3.29.2018
+Windows cougar  COMPLETED! 3.29.2018
+Windows centro  COMPLETED! 3.29.2018
+Windows Fiji  COMPLETED! 3.29.2018
+Windows Aurora  COMPLETED! 3.29.2018
+Windows Quebec  COMPLETED! 3.29.2018
+Windows server 8  COMPLETED! 3.29.2018
+Windows Threshold  COMPLETED! 3.29.2018
+Windows Redstone  COMPLETED! 3.29.2018
+Windows Pegasus Alder  COMPLETED! 3.29.2018
+Windows berch  COMPLETED! 3.29.2018
+Windows cedar  COMPLETED! 3.29.2018
+Windows taliskar  COMPLETED! 3.29.2018
+Windows Jameson  COMPLETED! 3.29.2018
+Windows McKendric  COMPLETED! 3.29.2018
+Windows macallan  COMPLETED! 3.29.2018
+Windows Yamazaki  COMPLETED! 3.29.2018
+Windows Chelan  COMPLETED! 3.29.2018
+Windows CE 6.0  COMPLETED! 3.29.2018
+Windows CE 1.0  COMPLETED! 3.29.2018
+Windows CE 2.0  COMPLETED! 3.29.2018
+Windows CE 3.0  COMPLETED! 3.29.2018
+Windows CE 4.0  COMPLETED! 3.29.2018
+Windows CE 4.1  COMPLETED! 3.29.2018
+Windows CE 4.2   COMPLETED! 3.29.2018
+Windows CE 5.0   COMPLETED! 3.29.2018
+Windows Embedded CE 6.0  COMPLETED! 3.29.2018
+Windows Embedded Compact 7  COMPLETED! 3.29.2018
+Windows Embedded CE 7  COMPLETED! 3.29.2018
+Windows Rapier  COMPLETED! 3.29.2018
+Windows Merlin  COMPLETED! 3.29.2018
+Windows Ozone  COMPLETED! 3.29.2018
+Windows Magneto  COMPLETED! 3.29.2018
+Windows Crossbow  COMPLETED! 3.29.2018
+Windows 6 on 6  COMPLETED! 3.29.2018
+Windows Pocket PC 2000  COMPLETED! 3.29.2018
+Windows Pocket PC 2002  COMPLETED! 3.29.2018
+Windows Mobile 2003  COMPLETED! 3.29.2018
+Windows Mobile 5  COMPLETED! 3.29.2018
+Windows Mobile 6  COMPLETED! 3.29.2018
+Windows Mobile 6.1.4  COMPLETED! 3.29.2018
+Windows Mobile 6.5  COMPLETED! 3.29.2018
+Windows Titanium  COMPLETED! 3.29.2018
+Windows Maldives  COMPLETED! 3.29.2018
+Windows Mobile 7  COMPLETED! 3.29.2018
+Windows photon  COMPLETED! 3.29.2018
+Windows Phonen 7  COMPLETED! 3.29.2018
+Windows Mango  COMPLETED! 3.29.2018
+Windows Phone 7.5  COMPLETED! 3.29.2018
+Windows Apollo   COMPLETED! 3.29.2018
+Windows Phone 8  COMPLETED! 3.29.2018
+Windows Phone 8.1  COMPLETED! 3.29.2018
+Windows SQLNT  COMPLETED! 3.29.2018
+Windows SQL server 4.21  COMPLETED! 3.29.2018
+Windows SQL95  COMPLETED! 3.29.2018
+Windows SQL Server 6.0  COMPLETED! 3.29.2018
+Windows Hydra  COMPLETED! 3.29.2018
+Windows SQL Server 6.5  COMPLETED! 3.29.2018
+Windows SQL server 7.0  COMPLETED! 3.29.2018
+Windows Sphinx  COMPLETED! 3.29.2018
+Windows Plato  COMPLETED! 3.29.2018
+Windows OLAP Services 7.0  COMPLETED! 3.29.2018
+Windows Shiloh  COMPLETED! 3.29.2018
+Windows SQL server 2000  COMPLETED! 3.29.2018
+Windows Rosetta  COMPLETED! 3.29.2018
+Windows Yukon  COMPLETED! 3.29.2018
+Windows SQL server 2005  COMPLETED! 3.29.2018
+Windows Picasso  COMPLETED! 3.29.2018
+Windows Katmai  COMPLETED! 3.29.2018
+Windows Akadia  COMPLETED! 3.29.2018
+Windows SQL Server 2008  COMPLETED! 3.29.2018
+Windows Kilimanjaro  COMPLETED! 3.29.2018
+Windows SQL server 2008 R2  COMPLETED! 3.29.2018
+Windows Denali  COMPLETED! 3.29.2018
+Windows SQL server 2012  COMPLETED! 3.29.2018
+Windows Juneau  COMPLETED! 3.29.2018
+Windows Cresccent  COMPLETED! 3.29.2018
+Windows Hekaton  COMPLETED! 3.29.2018
+Windows Helsinki  COMPLETED! 3.29.2018
+Windows Hermes  COMPLETED! 3.29.2018
+Windows Catapult  COMPLETED! 3.29.2018
+Windows Geneva  COMPLETED! 3.29.2018
+Windows Falcon  COMPLETED! 3.29.2018
+Windows Vipr  COMPLETED! 3.29.2018
+Windows Stirling  COMPLETED! 3.29.2018
+Windows server 2003 Web  COMPLETED! 3.29.2018
+Windows server 2003 standard  COMPLETED! 3.29.2018
+Windows server 2003 enterprise  COMPLETED! 3.29.2018
+Windows server 2003 datacenter  COMPLETED! 3.29.2018
+Windows Server 2003 R2 Express  COMPLETED! 3.29.2018
+Windows server 2003 R2 Workgroup  COMPLETED! 3.29.2018
+Windows server 2003 R2 Standard  COMPLETED! 3.29.2018
+Windows server 2003 R2 Enterprise  COMPLETED! 3.29.2018
+Windows Small Business Server  COMPLETED! 3.29.2018
+Windows server 2008 Standard  COMPLETED! 3.29.2018
+Windows server 2008 Enterprise  COMPLETED! 3.29.2018
+Windows server 2008 datacenter  COMPLETED! 3.29.2018
+Windows HPC Server 2008  COMPLETED! 3.29.2018
+Windows Socrates  COMPLETED! 3.29.2018
+Windows Web server 2008  COMPLETED! 3.29.2018
+Windows storage server 2008  COMPLETED! 3.29.2018
+Windows small business server 2008  COMPLETED! 3.29.2018
+Windows Essential Business server 2008  COMPLETED! 3.29.2018
+Windows Lima  COMPLETED! 3.29.2018
+Windows server 2008 SP1  COMPLETED! 3.29.2018
+Windows server 2008 SP2  COMPLETED! 3.29.2018
+Windows server 2008 R2 Standard  COMPLETED! 3.29.2018
+Windows server 2008 R2 Enterprise  COMPLETED! 3.29.2018
+Windows server 2008 R2 Datacenter  COMPLETED! 3.29.2018
+Windows server 2012 Foundation  COMPLETED! 3.29.2018
+Windows server 2012 Essentials  COMPLETED! 3.29.2018
+Windows server 2012 standard  COMPLETED! 3.29.2018
+Windows server 2012 datacenter  COMPLETED! 3.29.2018
+Windows server 2012 R2 Foundation  COMPLETED! 3.29.2018
+Windows server 2012 R2 Essentials  COMPLETED! 3.29.2018
+Windows server 2012 R2 standard  COMPLETED! 3.29.2018
+Windows server 2012 R2 datacenter  COMPLETED! 3.29.2018
+Windows server 2016 Technical Preview  COMPLETED! 3.29.2018
+Windows server 2016 Technical Preview 2  COMPLETED! 3.29.2018
+Windows server 2016 Technical Preview 3  COMPLETED! 3.29.2018
+Windows server 2016 Technical Preview 4  COMPLETED! 3.29.2018
+Windows server 2016 Technical Preview 5  COMPLETED! 3.29.2018
+TinyXP  COMPLETED! 3.29.2018
+MicroXP  COMPLETED! 3.29.2018
+Windows XP Gold COMPLETED! 3.29.2018
+
+Unix.GNU.Linux
+
+Ubuntu 4.10 Warty Warthog  COMPLETED! 3.29.2018
+Ubuntu 5.04 Hoary Hedgehog  COMPLETED! 3.29.2018
+Ubuntu 5.10 Breezy Badger  COMPLETED! 3.29.2018
+Ubuntu 6.06 LTS dapper drake  COMPLETED! 3.29.2018
+Ubuntu 6.10 Edgy Eft  COMPLETED! 3.29.2018 
+Ubuntu 7.04 Feisty Fawn  COMPLETED! 3.29.2018
+Ubuntu 7.10 Gutsy Gibbon  COMPLETED! 3.29.2018
+Ubuntu 8.04 LTS Hardy Heron  COMPLETED! 3.29.2018
+Ubuntu 8.10 Intrepid Ibex  COMPLETED! 3.29.2018
+Ubuntu 9.04 Jaunty Jackalope  COMPLETED! 3.29.2018
+Ubuntu 9.10 Karmic Koala  COMPLETED! 3.29.2018
+Ubuntu 10.04 LTS Lucid Lynx  COMPLETED! 3.29.2018
+Ubuntu 10.10 Maverick Meerkat  COMPLETED! 3.29.2018
+Ubuntu 11.04 Natty Narwhal  COMPLETED! 3.29.2018
+Ubuntu 11.10 Oneiric Ocelot  COMPLETED! 3.29.2018
+Ubuntu 12.04 LTS Precise Pangolin  COMPLETED! 3.29.2018
+Ubuntu 12.10 Quantal Quetzal  COMPLETED! 3.29.2018
+Ubuntu 13.04 Raring Ringtail  COMPLETED! 3.29.2018
+Ubuntu 13.10 Saucy Salamander  COMPLETED! 3.29.2018
+Ubuntu 14.04 LTS Trusty Tahr  COMPLETED! 3.29.2018
+Ubuntu 14.10 Utopic Unicorn  COMPLETED! 3.29.2018
+Ubuntu 15.04 Vivid Vervet  COMPLETED! 3.29.2018
+Ubuntu 15.10 Wily Werewolf  COMPLETED! 3.29.2018
+Ubuntu 16.04 LTS Xenial Xerus  COMPLETED! 3.29.2018
+Ubuntu 16.10 Yakkety Yak  COMPLETED! 3.29.2018
+Ubuntu 17.04 Zesty Zapus  COMPLETED! 3.29.2018
+Ubuntu 17.10 Artful Aardvark  COMPLETED! 3.29.2018
+Ubuntu 18.04 LTS Bionic Beaver  COMPLETED! 3.29.2018
+Fedora 1 Yarrow  COMPLETED! 3.29.2018
+Fedora 2 Tettnang  COMPLETED! 3.29.2018
+Fedora 3 Heidelberg  COMPLETED! 3.29.2018
+Fedora 4 Stentz  COMPLETED! 3.29.2018
+Fedora 5 Bordeaux  COMPLETED! 3.29.2018
+Fedora 6 Zod  COMPLETED! 3.29.2018
+Fedora 7 Moonshine  COMPLETED! 3.29.2018
+Fedora 8 Werewolf  COMPLETED! 3.29.2018
+Fedora 9 Sulphur  COMPLETED! 3.29.2018
+Fedora 10 Cambridge  COMPLETED! 3.29.2018
+Fedora 11 Leonidas  COMPLETED! 3.29.2018
+Fedora 12 Constantine  COMPLETED! 3.29.2018
+Fedora 13 Goddard  COMPLETED! 3.29.2018
+Fedora 14 Laughlin  COMPLETED! 3.29.2018
+Fedora 15 Lovelock  COMPLETED! 3.29.2018
+Fedora 16 Verne  COMPLETED! 3.29.2018
+Fedora 17 Beefy Miracle  COMPLETED! 3.29.2018
+Fedora 18 Spherical Cow  COMPLETED! 3.29.2018
+Fedora 19 Schrödinger's Cat  COMPLETED! 3.29.2018
+Fedora 20 Heisenbug  COMPLETED! 3.29.2018
+Fedora 21  COMPLETED! 3.29.2018
+Fedora 22  COMPLETED! 3.29.2018
+Fedora 23  COMPLETED! 3.29.2018
+Fedora 24  COMPLETED! 3.29.2018
+Fedora 25  COMPLETED! 3.29.2018
+Fedora 26  COMPLETED! 3.29.2018
+Fedora 27  COMPLETED! 3.29.2018
+Fedora 28  COMPLETED! 3.29.2018
+Fedora 29  COMPLETED! 3.29.2018
+Red hat 0.9 Halloween  COMPLETED! 3.29.2018
+Red hat 1 Mother's day  COMPLETED! 3.29.2018
+Red hat 1.1 Mother's day+0.1  COMPLETED! 3.29.2018
+Red hat 2.0   COMPLETED! 3.29.2018
+Red hat 2.1 Bluesky  COMPLETED! 3.29.2018
+Red hat 3.03 Picasso  COMPLETED! 3.29.2018
+Red hat 3.9 Rembrandt  COMPLETED! 3.29.2018
+Red hat 4.0 Colgate  COMPLETED! 3.29.2018
+Red hat 4.1 Vanderbilt  COMPLETED! 3.29.2018
+Red hat 4.2 Biltmore  COMPLETED! 3.29.2018
+Red hat 4.8 Thunderbird  COMPLETED! 3.29.2018
+Red hat 4.9 Mustang  COMPLETED! 3.29.2018
+Red hat 5.0 Hurricane  COMPLETED! 3.29.2018
+Red hat 5.1 Manhattan  COMPLETED! 3.29.2018
+Red hat 5.2 Apollo  COMPLETED! 3.29.2018
+Red hat 5.9 Starbuck  COMPLETED! 3.29.2018
+Red hat 6.0 Hedwig  COMPLETED! 3.29.2018
+Red hat 6.0.50 Lorax  COMPLETED! 3.29.2018
+Red hat 6.1 Cartman  COMPLETED! 3.29.2018
+Red hat 6.1.92 Piglet  COMPLETED! 3.29.2018
+Red hat 6.2 Zoot  COMPLETED! 3.29.2018
+Red hat 6.9.5 Pinstripe  COMPLETED! 3.29.2018
+Red hat 7 Guinness  COMPLETED! 3.29.2018
+Red hat 7.0.90 fisher  COMPLETED! 3.29.2018
+Red hat 7.0.91 Wolverine  COMPLETED! 3.29.2018
+Red hat 7.1 Seawolf  COMPLETED! 3.29.2018
+Red hat 7.1.93 Roswell  COMPLETED! 3.29.2018
+Red hat 7.2 Enigma  COMPLETED! 3.29.2018
+Red hat 7.2.91 Skipjack  COMPLETED! 3.29.2018
+Red hat 7.3 Vanhalla  COMPLETED! 3.29.2018
+Red hat 7.3.29 Limbo  COMPLETED! 3.29.2018
+Red hat 8.0 Psyche  COMPLETED! 3.29.2018
+Red hat 9 Shrike  COMPLETED! 3.29.2018
+Red hat 9.0.93 Severn  COMPLETED! 3.29.2018
+
+Android
+
+Android 1.0  COMPLETED! 3.30.2018
+Android 1.1 Petit four  COMPLETED! 3.30.2018
+Android 1.5 Cupcake  COMPLETED! 3.30.2018
+Android 1.6 Donut  COMPLETED! 3.30.2018
+Android 2.0 Eclair  COMPLETED! 3.30.2018
+Android 2.1 Echlair  COMPLETED! 3.30.2018
+Android 2.2 Froyo  COMPLETED! 3.30.2018
+Android 2.2.3 Froyo  COMPLETED! 3.30.2018
+Android 2.3 Gingerbread  COMPLETED! 3.30.2018
+Android 2.3.7 Gingerbread  COMPLETED! 3.30.2018  
+Android 3.0 Honeycomb  COMPLETED! 3.30.2018
+Android 3.2.6 Honeycomb  COMPLETED! 3.30.2018
+Android 4.0 Ice cream sandwich  COMPLETED! 3.30.2018
+Android 4.0.4 Ice cream sandwich  COMPLETED! 3.30.2018
+Android 4.1 Jelly bean  COMPLETED! 3.30.2018
+Android 4.3.1 Jelly bean  COMPLETED! 3.30.2018
+Android 4.4 Kitkat  COMPLETED! 3.30.2018
+Android 4.4.4 Kitkat  COMPLETED! 3.30.2018
+Android 5.0 Lollipop  COMPLETED! 3.30.2018
+Android 5.1.1 Lollipop  COMPLETED! 3.30.2018
+Android 6.0 Marshmallow  COMPLETED! 3.30.2018
+Android 6.0.1 Marshmallow  COMPLETED! 3.30.2018
+Android 7.0 Nougat   COMPLETED! 3.30.2018
+Android 7.1.2 Nougat  COMPLETED! 3.30.2018
+Android 8.0 Oreo  COMPLETED! 3.30.2018
+Android 8.1 Oreo  COMPLETED! 3.30.2018
+Android 9 Android P  COMPLETED! 3.30.2018
+
+IOS
+
+Iphone OS 1.0.x  COMPLETED! 3.30.2018
+Iphone OS 1.1.x  COMPLETED! 3.30.2018
+Iphone OS 2.0.x  COMPLETED! 3.30.2018
+Iphone OS 2.1.x  COMPLETED! 3.30.2018
+Iphone OS 2.2.x  COMPLETED! 3.30.2018
+Iphone OS 3.0.x  COMPLETED! 3.30.2018
+Iphone OS 3.1.x  COMPLETED! 3.30.2018
+Iphone OS 3.2.x  COMPLETED! 3.30.2018
+IOS 4.0x  COMPLETED! 3.30.2018
+IOS 4.1  COMPLETED! 3.30.2018
+IOS 4.2.x  COMPLETED! 3.30.2018
+IOS 4.3.x  COMPLETED! 3.30.2018
+IOS 5.0.x  COMPLETED! 3.30.2018
+IOS 5.1.x  COMPLETED! 3.30.2018
+IOS 6.0.x  COMPLETED! 3.30.2018
+IOS 6.1.x  COMPLETED! 3.30.2018
+IOS 7.0.x  COMPLETED! 3.30.2018
+IOS 7.1.x  COMPLETED! 3.30.2018
+IOS 8.0.x  COMPLETED! 3.30.2018
+IOS 8.1.x  COMPLETED! 3.30.2018
+IOS 8.2  COMPLETED! 3.30.2018
+IOS 8.3  COMPLETED! 3.30.2018
+IOS 8.4.x  COMPLETED! 3.30.2018
+IOS 9.0.x  COMPLETED! 3.30.2018
+IOS 9.1  COMPLETED! 3.30.2018
+IOS 9.2.x  COMPLETED! 3.30.2018
+IOS 9.3.x  COMPLETED! 3.30.2018
+IOS 10.0.x  COMPLETED! 3.30.2018
+IOS 10.1.x  COMPLETED! 3.30.2018
+IOS 10.2.x  COMPLETED! 3.30.2018
+IOS 10.3.x  COMPLETED! 3.30.2018
+IOS 11.0.x  COMPLETED! 3.30.2018
+IOS 11.1.x  COMPLETED! 3.30.2018
+IOS 11.2.x  COMPLETED! 3.30.2018

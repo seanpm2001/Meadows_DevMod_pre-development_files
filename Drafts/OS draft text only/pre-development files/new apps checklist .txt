@@ -1,0 +1,221 @@
+New apps
+
+Ultra-image studio      DONE! 3.28.2018
+Ultra-image video studio  DONE! 3.28.2018
+bitkeeper  DONE! 3.28.2018
+VBS write  DONE! 3.28.2018
+Ascii Map   DONE! 3.28.2018
+Emotican Board  DONE! 3.28.2018
+Lenny board  DONE! 3.28.2018
+System laboratory  DONE! 3.28.2018
+Partition office  DONE! 3.28.2018
+CHM compiler  DONE! 3.28.2018
+CHM suppport  DONE! 3.28.2018
+Meadows screen recoder  DONE! 3.28.2018
+Meadow shears (snipping images)  DONE! 3.28.2018
+Error log  DONE! 3.28.2018
+Drive jumper  DONE! 3.28.2018
+Jemotican Map  DONE! 3.28.2018
+Emoji map  DONE! 3.28.2018
+RGB support  DONE! 3.28.2018
+Offline dictionary for kids  DONE! 3.28.2018
+Offline dictionary for teens  DONE! 3.28.2018
+Offline dictionary for adults  DONE! 3.28.2018
+Theme maker
+Theme shop
+Polygon playroom
+ROM viewer
+Admin Keypanel
+Create user
+user management
+Paycheck handler
+Field write
+anti-gravity desktop
+permission slips
+tips
+report a bug
+volume mixer
+spreadsheet explorer
+mailbox (offline email management)
+planner
+blueprints
+registry editor
+award hall
+certificate reader
+product activator
+embedding support
+drive cleaner
+desktop artboard
+billboard manager
+DVD player
+server center
+server manager
+briefcase center
+event viewer
+con host
+license 
+ch3ckbook
+ch3ck wallet
+virtual wallet
+subtitles
+narrator
+slideshow maker
+integrated python console
+bookmarks
+bookmark manager
+language manager
+XML reader
+storage management
+cleanup wizard
+desktop wizard
+settings wizard
+file tree forest
+list maker
+ultimate clipboard
+keyboard wizard
+mouse wizard
+Ad management
+Wi-Fi control panel
+Bluetooth dentures
+python remote console
+HTML remote console
+assembly remote console
+error customizer
+file bin
+VPN pinger
+check my IP
+power console
+about 
+MEDOS console
+spirit console
+power options
+cursive writer
+icon maker 16x
+icon maker 25x
+icon maker 36x
+icon maker 49x
+icon maker 64x
+icon maker 90x
+icon maker 100x
+icon maker 128x
+icon maker 256x
+icon maker 512x
+icon maker 1024x
+icon maker 2048x
+ color test
+strobe lights
+FM radio
+AM radio
+Police radio
+Security radio
+Firemen radio
+Hospital radio
+Personal radio
+site exporter
+site importer
+Spend log
+power log
+medicine manager
+file manager
+file extension manager
+system toolkit
+game player
+video streaming service
+video streaming host
+console switch
+2kxp internet (internet for windows 2000 + windows xp)
+vis7 internet (internet for windows vista + windows 7)
+8.10 internet (internet for windows 8 + windows 8.1 + windows 10)
+desktop game console
+CGI center
+temperature gauge
+processor temperature gauge
+gadget gauntlet
+letter writer
+hexadecimal converter
+hexadecimal help
+morse manager
+morse code console
+paint bucket for desktop
+desktop clouds
+desktop gradient
+desktop storm
+desktop scissors
+desktop marker kit
+desktop crayon kit
+desktop spray can
+desktop sponge
+ASCII mode
+ASCII console
+ASCII write
+ASCII reader
+ASCII text converter
+ASCII image converter
+ASCII video converter
+ASCII document converter
+Spanish translator
+Russian translator
+Chinese (simplified) translator
+Chinese (traditional) translator
+Japanese translator
+German translator
+Indonesian translator
+Roman translator
+Roman Numeral Guide
+French translator
+Korean translator
+Zulu translator
+Albanian translator
+World globe
+video encoder
+keycard
+snowglobe
+lava lamp
+christmas mode
+hanuka mode
+night mode manager
+partition smasher
+android support
+itunes support
+adobe support
+windows support
+mac os X support
+mac system support
+ubuntu support
+fedora support
+arch support
+mintOS support
+berkeley OS support
+lubuntu support
+gnome support
+bash support
+MS-DOS support
+redhat support
+internet explorer support
+google chrome support
+mozilla firefox support
+7zip support
+popcap support
+nintendo support
+sega support
+playstation support
+sony support
+X-BOX suppport
+comic reader
+comic maker
+desktop stapler
+desktop glue
+desktop sponge
+desktop flamethrower
+desktop 2d mode
+desktop 1d mode
+desktop 3d mode
+desktop 3dd mode
+desktop 4d mode
+desktop 4dd mode
+smell control
+scent maker
+fan system
+cook control
+washer support
+dryer support

@@ -1,0 +1,317 @@
+Virtual machine area add list 1.0
+made march 29th 2018
+made to list the operating system directories that i will add later
+
+Windows
+
+Windows server 2003
+Windows server 2003 R2
+Windows Janus
+Sparta, Winball
+Windows Snowball
+Windows detroit
+Windows Nashville
+Windows Razzle
+Windows Daytona
+Windows wolfpack
+Windows Impala
+Windows odyssey
+Windows Manria
+Windows freestyle
+Windows harmony
+Windows symphony
+Windows Emerald
+Windows Diamond
+Windows springboard
+Windows lonestar
+Windows server
+Windows Bobcat
+Windows Eiger, monch
+Windows Quattro
+Windows Vail
+Windows Longhorn server
+Windows cougar
+Windows centro
+Windows Fiji
+Windows Aurora
+Windows Quebec
+Windows server 8
+Windows Threshold
+Windows Redstone
+Windows Pegasus Alder
+Windows berch
+Windows cedar
+Windows taliskar
+Windows Jameson
+Windows McKendric
+Windows macallan
+Windows Yamazaki
+Windows Chelan
+Windows CE 6.0
+Windows CE 1.0
+Windows CE 2.0
+Windows CE 3.0
+Windows CE 4.0
+Windows CE 4.1
+Windows CE 4.2
+Windows CE 5.0
+Windows Embedded CE 6.0
+Windows Embedded Compact 7
+Windows Embedded CE 7
+Windows Rapier
+Windows Merlin
+Windows Ozone
+Windows Magneto
+Windows Crossbow
+Windows 6 on 6
+Windows Pocket PC 2000
+Windows Pocket PC 2002
+Windows Mobile 2003
+Windows Mobile 5
+Windows Mobile 6
+Windows Mobile 6.1.4
+Windows Mobile 6.5
+Windows Titanium
+Windows Maldives
+Windows Mobile 7
+Windows photon
+Windows Phonen 7
+Windows Mango
+Windows Phone 7.5
+Windows Apollo 
+Windows Phone 8
+Windows Phone 8.1
+Windows SQLNT
+Windows SQL server 4.21
+Windows SQL95
+Windows SQL Server 6.0
+Windows Hydra
+Windows SQL Server 6.5
+Windows SQL server 7.0
+Windows Sphinx
+Windows Plato
+Windows OLAP Services 7.0
+Windows Shiloh
+Windows SQL server 2000
+Windows Rosetta
+Windows Yukon
+Windows SQL server 2005
+Windows Picasso
+Windows Katmai
+Windows Akadia
+Windows SQL Server 2008
+Windows Kilimanjaro
+Windows SQL server 2008 R2
+Windows Denali
+Windows SQL server 2012
+Windows Juneau
+Windows Cresccent
+Windows Hekaton
+Windows Helsinki
+Windows Hermes
+Windows Catapult
+Windows Geneva
+Windows Falcon
+Windows Vipr
+Windows Stirling
+Windows server 2003 Web
+Windows server 2003 standard
+Windows server 2003 enterprise
+Windows server 2003 datacenter
+Windows Server 2003 R2 Express
+Windows server 2003 R2 Workgroup
+Windows server 2003 R2 Standard
+Windows server 2003 R2 Enterprise
+Windows Small Business Server
+Windows server 2008 Standard
+Windows server 2008 Enterprise
+Windows server 2008 datacenter
+Windows HPC Server 2008
+Windows Socrates
+Windows Web server 2008
+Windows storage server 2008
+Windows small business server 2008
+Windows Essential Business server 2008
+Windows Lima
+Windows server 2008 SP1
+Windows server 2008 SP2
+Windows server 2008 R2 Standard
+Windows server 2008 R2 Enterprise
+Windows server 2008 R2 Datacenter
+Windows server 2012 Foundation
+Windows server 2012 Essentials
+Windows server 2012 standard
+Windows server 2012 datacenter
+Windows server 2012 R2 Foundation
+Windows server 2012 R2 Essentials
+Windows server 2012 R2 standard
+Windows server 2012 R2 datacenter
+Windows server 2016 Technical Preview
+Windows server 2016 Technical Preview 2
+Windows server 2016 Technical Preview 3
+Windows server 2016 Technical Preview 4
+Windows server 2016 Technical Preview 5
+TinyXP
+MicroXP
+Windows XP Gold
+
+Unix.GNU.Linux
+
+Ubuntu 4.10 Warty Warthog
+Ubuntu 5.04 Hoary Hedgehog
+Ubuntu 5.10 Breezy Badger
+Ubuntu 6.06 LTS dapper drake
+Ubuntu 6.10 Edgy Eft
+Ubuntu 7.04 Feisty Fawn
+Ubuntu 7.10 Gutsy Gibbon
+Ubuntu 8.04 LTS Hardy Heron
+Ubuntu 8.10 Intrepid Ibex
+Ubuntu 9.04 Jaunty Jackalope
+Ubuntu 9.10 Karmic Koala
+Ubuntu 10.04 LTS Lucid Lynx
+Ubuntu 10.10 Maverick Meerkat
+Ubuntu 11.04 Natty Narwhal
+Ubuntu 11.10 Oneiric Ocelot
+Ubuntu 12.04 LTS Precise Pangolin
+Ubuntu 12.10 Quantal Quetzal
+Ubuntu 13.04 Raring Ringtail
+Ubuntu 13.10 Saucy Salamander
+Ubuntu 14.04 LTS Trusty Tahr
+Ubuntu 14.10 Utopic Unicorn
+Ubuntu 15.04 Vivid Vervet
+Ubuntu 15.10 Wily Werewolf
+Ubuntu 16.04 LTS Xenial Xerus
+Ubuntu 16.10 Yakkety Yak
+Ubuntu 17.04 Zesty Zapus
+Ubuntu 17.10 Artful Aardvark
+Ubuntu 18.04 LTS Bionic Beaver
+Fedora 1 Yarrow
+Fedora 2 Tettnang
+Fedora 3 Heidelberg
+Fedora 4 Stentz
+Fedora 5 Bordeaux
+Fedora 6 Zod
+Fedora 7 Moonshine
+Fedora 8 Werewolf
+Fedora 9 Sulphur
+Fedora 10 Cambridge
+Fedora 11 Leonidas
+Fedora 12 Constantine
+Fedora 13 Goddard
+Fedora 14 Laughlin
+Fedora 15 Lovelock
+Fedora 16 Verne
+Fedora 17 Beefy Miracle
+Fedora 18 Spherical Cow
+Fedora 19 Schrödinger's Cat
+Fedora 20 Heisenbug
+Fedora 21
+Fedora 22
+Fedora 23
+Fedora 24
+Fedora 25
+Fedora 26
+Fedora 27
+Fedora 28
+Fedora 29
+Red hat 0.9 Halloween
+Red hat 1 Mother's day
+Red hat 1.1 Mother's day+0.1
+Red hat 2.0 
+Red hat 2.1 Bluesky
+Red hat 3.03 Picasso
+Red hat 3.9 Rembrandt
+Red hat 4.0 Colgate
+Red hat 4.1 Vanderbilt
+Red hat 4.2 Biltmore
+Red hat 4.8 Thunderbird
+Red hat 4.9 Mustang
+Red hat 5.0 Hurricane
+Red hat 5.1 Manhattan
+Red hat 5.2 Apollo
+Red hat 5.9 Starbuck
+Red hat 6.0 Hedwig
+Red hat 6.0.50 Lorax
+Red hat 6.1 Cartman
+Red hat 6.1.92 Piglet
+Red hat 6.2 Zoot
+Red hat 6.9.5 Pinstripe
+Red hat 7 Guinness
+Red hat 7.0.90 fisher
+Red hat 7.0.91 Wolverine
+Red hat 7.1 Seawolf
+Red hat 7.1.93 Roswell
+Red hat 7.2 Enigma
+Red hat 7.2.91 Skipjack
+Red hat 7.3 Vanhalla
+Red hat 7.3.29 Limbo
+Red hat 8.0 Psyche
+Red hat 9 Shrike
+Red hat 9.0.93 Severn
+
+Android
+
+Android 1.0
+Android 1.1 Petit four
+Android 1.5 Cupcake
+Android 1.6 Donut
+Android 2.0 Eclair
+Android 2.1 Echlair
+Android 2.2 Froyo
+Android 2.2.3 Froyo
+Android 2.3 Gingerbread
+Android 2.3.7 Gingerbread
+Android 3.0 Honeycomb
+Android 3.2.6 Honeycomb
+Android 4.0 Ice cream sandwich
+Android 4.0.4 Ice cream sandwich
+Android 4.1 Jelly bean
+Android 4.3.1 Jelly bean
+Android 4.4 Kitkat
+Android 4.4.4 Kitkat
+Android 5.0 Lollipop
+Android 5.1.1 Lollipop
+Android 6.0 Marshmallow
+Android 6.0.1 Marshmallow
+Android 7.0 Nougat 
+Android 7.1.2 Nougat
+Android 8.0 Oreo
+Android 8.1 Oreo
+Android 9 Android P
+
+IOS
+
+Iphone OS 1.0.x
+Iphone OS 1.1.x
+Iphone OS 2.0.x
+Iphone OS 2.1.x
+Iphone OS 2.2.x
+Iphone OS 3.0.x
+Iphone OS 3.1.x
+Iphone OS 3.2.x
+IOS 4.0x
+IOS 4.1
+IOS 4.2.x
+IOS 4.3.x
+IOS 5.0.x
+IOS 5.1.x
+IOS 6.0.x
+IOS 6.1.x
+IOS 7.0.x
+IOS 7.1.x
+IOS 8.0.x
+IOS 8.1.x
+IOS 8.2
+IOS 8.3
+IOS 8.4.x
+IOS 9.0.x
+IOS 9.1
+IOS 9.2.x
+IOS 9.3.x
+IOS 10.0.x
+IOS 10.1.x
+IOS 10.2.x
+IOS 10.3.x
+IOS 11.0.x
+IOS 11.1.x
+IOS 11.2.x
